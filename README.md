@@ -1,4 +1,3 @@
- ![head.png](https://raw.githubusercontent.com/Babbage0149/FigureBed/master/img/readme-top.png)
 
 Hi there, thanks for stopping by, this is ** Charles **.
 
